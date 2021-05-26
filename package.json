@@ -1,5 +1,5 @@
 {
-  "name": "web3modal",
+  "name": "mrwho_web3modal",
   "version": "1.9.3",
   "description": "A single Web3 / Ethereum provider solution for all Wallets",
   "keywords": [
@@ -16,7 +16,7 @@
     "authereum",
     "frame"
   ],
-  "author": "Web3Modal <web3modal.com>",
+  "author": "mrwh0 <web3modal.com>",
   "license": "MIT",
   "main": "dist/index.js",
   "unpkg": "dist/index.js",
@@ -29,13 +29,13 @@
   "files": [
     "dist"
   ],
-  "homepage": "https://github.com/web3modal/web3modal",
+  "homepage": "https://github.com/mrwh0/web3modal",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/web3modal/web3modal.git"
+    "url": "git+https://github.com/mrwh0/web3modal.git"
   },
   "bugs": {
-    "url": "https://github.com/web3modal/web3modal/issues"
+    "url": "https://github.com/mrwh0/web3modal/issues"
   },
   "scripts": {
     "clean": "rm -rf dist",

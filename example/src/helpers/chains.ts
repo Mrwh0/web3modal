@@ -178,6 +178,23 @@ const supportedChains: IChainData[] = [
     }
   },
   {
+    name: "bancoin testnet",
+    short_name: "bci",
+    chain: "bancoin",
+    network: "bancoin-testnet",
+    chain_id: 7778,
+    network_id: 7778,
+    rpc_url: "https://sec.criptosistema.com",
+    native_currency: {
+      symbol: "BCI",
+      name: "BCI",
+      decimals: "18",
+      contractAddress: "",
+      balance: ""
+    }
+  },
+
+  {
     name: "Binance Smart Chain",
     short_name: "bsc",
     chain: "smartchain",
@@ -194,5 +211,7 @@ const supportedChains: IChainData[] = [
     }
   }
 ];
+
+
 
 export default supportedChains;
